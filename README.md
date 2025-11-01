@@ -1,7 +1,6 @@
 # 👋 Hi, I’m Mujammil Naykodi  
 
-![Profile Views](https://komarev.com/ghpvc/?username=MujammilNaykodi&color=blue)
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=MujammilNaykodi)
+
 
 
 🚀 **Software Developer | Java | Python | JavaScript | Full-Stack Enthusiast**  
