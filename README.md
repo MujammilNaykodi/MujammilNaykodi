@@ -1,5 +1,9 @@
 # 👋 Hi, I’m Mujammil Naykodi  
 
+![Profile Views](https://komarev.com/ghpvc/?username=MujammilNaykodi&color=blue)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=MujammilNaykodi)
+
+
 🚀 **Software Developer | Java | Python | JavaScript | Full-Stack Enthusiast**  
 I love building impactful software solutions, solving challenging problems, and continuously exploring new technologies. With experience in **Java, Spring Boot, Node.js, React.js, MySQL**, I aim to create applications that are **scalable, secure, and user-friendly**.
 
