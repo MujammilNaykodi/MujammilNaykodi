@@ -36,9 +36,13 @@ I love building impactful software solutions, solving challenging problems, and 
 
 ## 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MujammilNaykodi&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MujammilNaykodi&layout=compact&theme=tokyonight" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=MujammilNaykodi&theme=tokyonight" />
 </p>
+
+
+
+
+
 
 ---
 
